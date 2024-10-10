@@ -1,0 +1,8 @@
+prophet 
+pycaret
+seaborn 
+matplotlib
+statsmodels 
+pandas 
+numpy
+openpyxl
